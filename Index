@@ -1,10 +1,12 @@
 <link rel="stylesheet" href="styles.css">
 <section id="welcome-section">
-  <h1>hi</h1>
+  <h1>portfolio webpage</h1>
   <section>
     <section id="projects">
-      <p class="project-tile"></p>
-      <a id="profile-link" target="_blank"></a>
+      <p class="project-tile">
+        <a href="https://github.com/itzell-rrr/Sunvey-From">sunvey from </a>
+      </p>
+      <a href="https://github.com/itzell-rrr" id="profile-link" target="_blank">github link</a>
     </section>
     <nav id="navbar">
       <a href="#"></a>
